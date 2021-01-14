@@ -1,1 +1,1 @@
-# Intro-to-ML_Technocolabs
+# Intro-to-ML and Intermediate_Technocolabs
